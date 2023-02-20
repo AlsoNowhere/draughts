@@ -1,0 +1,17 @@
+{
+	"name": "draughts",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"build:js": "rollup --config",
+		"watch:js": "rollup --config --watch",
+		"console": "node console"
+	},
+	"devDependencies": {
+		"rollup": "^1.27.5"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC"
+}
